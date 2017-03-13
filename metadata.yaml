@@ -1,5 +1,8 @@
 _repo: Mazelli-and-Other-Poems_2008
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sands, George W.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '784'
     url: http://www.gutenberg.org/2009/agents/784
 description: 'Alternate title: The misanthrope reclaimed, a dramatic poem'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2008#Mazelli-and-Other-Poems
 gutenberg_issued: '1999-12-01'
 gutenberg_type: Text
 identifiers:
